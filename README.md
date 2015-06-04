@@ -1,0 +1,4 @@
+```
+$ bundle
+$ ruby test.rb
+```
